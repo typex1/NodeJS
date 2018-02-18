@@ -1,0 +1,25 @@
+1 Kundennummer Text(100) Ja externe Kundennr im Reseller-Portal
+2 Leitung_Straße Text(30) Ja
+3 Leitung_Hausnummer Text(4) Ja
+4 Leitung_Postleitzahl Text(5) Ja
+5 Leitung_Ort Text(30) Ja
+6 Leitung_TAE Text(100) Nein Lage der TAE-Dose
+7 Leitung_Anrede Text Ja Herr|Frau|Firma sind hier zulässig
+8 Leitung_Vorname Text(30) Ja
+9 Leitung_Nachname Text(30) Ja
+10 Leitung_Vorwahl Text(5) Ja für
+11 Leitung_Rufnummer Text(11) Ja für
+12 Kontakt_Anrede Text Ja Herr|Frau sind zulässig hier
+13 Kontakt_Vorname Text(30) Ja
+14 Kontakt_Nachname Text(30) Ja
+15 Kontakt_Straße Text(30) Ja
+16 Kontakt_Hausnummer Text(4) Ja
+17 Kontakt_Postleitzahl Text(5) Ja
+18 Kontakt_Ort Text(30) Ja
+19 Rufnummer Text(16) Ja Nur numerische Werte mit führender Null zugelassen.
+20 Datum Datum dd.MM.yyyy Ja Wunschdatum (Anschlusstermin)
+21 Produktliste Text Ja Durch Pipe ("|", "0x7C") getrennte Werteliste
+22 Mindestbandbreite Text Ja Nur numerische Werte ohne führende Null zugelassen
+23 OSL_Bereitstellung Auflistung keine
+24 Rückmeldung_an Text ja Gültige E-Mail-Adresse
+25 Zeitfenster Text null
