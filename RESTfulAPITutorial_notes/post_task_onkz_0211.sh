@@ -10,11 +10,6 @@ curl -H "Content-Type: application/json" \
 -d @- << EOF
 
 {
-    "__v": 0,
-    "_name": "Duesseldorf",
-    "status": [
-         "pending"
-    ],
-    "Created_date":"2017-03-03T19:12:32.520Z"
+    "name": "Duesseldorf"
 }
 EOF
